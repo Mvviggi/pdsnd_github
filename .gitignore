@@ -1,1 +1,4 @@
 .github/**
+#Ignored files
+.ds_store
+*.csv
