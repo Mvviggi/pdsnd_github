@@ -6,10 +6,10 @@
 ### Project title
 Explore Bike Share Data
 
-###Files Used
+### Files Used
 chicago.csv
 washington.csv
 new-york-city.csv
 
-###Credits
+### Credits
 Udacity and many Youtube videos
