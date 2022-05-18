@@ -1,4 +1,5 @@
-.github/**
 #Ignored files
 .ds_store
-*.csv
+chicago.csv
+washington.csv
+new-york-city.csv
