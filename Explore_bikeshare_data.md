@@ -50,7 +50,8 @@ library(ggplot2)
 
 
 **What is the most common day? .**
-#what are the counts of each user type?
+## what are the counts of each user type?
+#additional question for descriptive data
 by(cities$User.Type, cities$CITY, summary)
 
 ```R
