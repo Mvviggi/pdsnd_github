@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # This is the README file for the master branch, now merged with the README of documentation branch
 =======
 =======
@@ -238,6 +239,10 @@ system('python -m nbconvert Explore_bikeshare_data.ipynb')
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 >>>>>>> documentation
+=======
+### This is the readme file for the refactoring
+This is the README file for the master branch
+>>>>>>> refactoring
 ### Date created
 04-20-2022
 
