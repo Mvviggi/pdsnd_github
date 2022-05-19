@@ -3,6 +3,7 @@
 ny <- read.csv('new_york_city.csv')
 wash <- read.csv('washington.csv')
 chi <- read.csv('chicago.csv')
+
 #add column called city to each table
 ny['CITY']='New york'
 wash['CITY']='Washington'
