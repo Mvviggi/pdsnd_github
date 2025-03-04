@@ -1,6 +1,6 @@
 # This is the README file for the master branch, now merged with the README of documentation branch
 ---
-=======
+
 ## README for documentation branch
 #### documentation
 ### Explore Bike Share Data
