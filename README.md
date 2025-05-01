@@ -2,7 +2,7 @@
 ---
 
 ## README for documentation branch
-#### documentation
+
 ### Explore Bike Share Data
 ## The goal for this data is for the team to modify here any data analysis
 For this project, your goal is to ask and answer three questions about the available bikeshare data from Washington, Chicago, and New York.  This notebook can be submitted directly through the workspace when you are confident in your results.
